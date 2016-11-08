@@ -1,0 +1,69 @@
+body{
+    background: green;
+}
+
+.box1{
+    width: 90%;
+    height: 90%;
+    top: 30px;
+    left: 65px;
+    right: 65px;
+    bottom: 30px;
+    border: 1px white solid;
+    position: absolute;
+    
+}
+
+.box2{
+    width: 10%;
+    height: 45%;
+    top: 180px;
+    left: 0px;
+    right: 150px;
+    bottom: 150px;
+    border: 1px white solid;
+    position: relative;
+    
+}
+
+.box3{
+    width: 100%;
+    height: 100%;
+    top: 0px;
+    left: 1104px;
+    right: 0px;
+    bottom: 150px;
+    border: 1px white solid;
+    position: relative;
+}
+
+.circulo{
+    width: 250px;
+    height: 250px;
+    position:relative;
+    border:1px white solid;
+    right: 650px;
+    border-radius:50%;
+}
+
+.ball1{
+    position: relative;
+    top: 205px;
+left: 170px;
+    bottom:5px; 
+}
+
+
+.ball2{
+    position: relative;
+    top: 150px;
+    left: 650px;
+}
+
+
+.ball3{
+    position: relative;
+    top: 440px;
+    left:80%
+}
+
