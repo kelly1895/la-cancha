@@ -1,69 +1,67 @@
-body{
+.cancha{
     background: green;
-}
-
-.box1{
-    width: 90%;
-    height: 90%;
-    top: 30px;
-    left: 65px;
-    right: 65px;
-    bottom: 30px;
-    border: 1px white solid;
-    position: absolute;
+    width:850px;
+    height: 550px;
+    position: static;
+    
+    
     
 }
 
+.box1{
+    width: 820px;
+    height:500px;
+    border: 1px white solid;
+    position:absolute;
+    top: 30px;
+    left: 25px;
+}
+
 .box2{
-    width: 10%;
-    height: 45%;
-    top: 180px;
+    width: 100px;
+    height: 250px;
+    top: 120px;
     left: 0px;
-    right: 150px;
-    bottom: 150px;
     border: 1px white solid;
     position: relative;
     
 }
 
 .box3{
-    width: 100%;
-    height: 100%;
-    top: 0px;
-    left: 1104px;
-    right: 0px;
-    bottom: 150px;
+    width:100px;
+    height: 250px;
+   left: 717px;
     border: 1px white solid;
     position: relative;
 }
 
 .circulo{
-    width: 250px;
-    height: 250px;
+    width: 220px;
+    height: 220px;
     position:relative;
     border:1px white solid;
-    right: 650px;
+    right: 420px;
     border-radius:50%;
 }
 
 .ball1{
-    position: relative;
-    top: 205px;
-left: 170px;
-    bottom:5px; 
+    position: absolute;
+    top: 160px;
+left: 120px;
+    bottom:1px; 
 }
 
 
 .ball2{
-    position: relative;
-    top: 150px;
-    left: 650px;
+    position: absolute;
+    top: 100px;
+    left:480px;
 }
 
 
 .ball3{
-    position: relative;
-    top: 440px;
-    left:80%
+    position: absolute;
+    top: 370px;
+    left:717px;
 }
 
